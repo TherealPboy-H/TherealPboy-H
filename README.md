@@ -1,13 +1,13 @@
 <!-- Header typing animation -->
 ![Hi There Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Hope+Phasha)
 
-### Computer Science Student
+### I'm a Computer Science Student
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently learning **Full Stack Web Development**
-- 🌱 Working with **PHP, MySQL, OOSAD principles, Public APIs**
+
+- 🔭 I’m currently learning Full Stack Web Development
+- 🌱 Working with PHP, MySQL, OOSAD principles, Public APIs
 - ⚡ Fun fact: I have a passion for global market analysis
 
 ---
