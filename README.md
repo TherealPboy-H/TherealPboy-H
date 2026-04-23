@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 <p align="center">
-🔭 I’m currently learning <b>Full Stack Web Development</b> <br>
-🌱 Working with <b>PHP, MySQL, OOSAD principles, Public APIs</b> <br>
-⚡ Fun fact: I have a passion for <b>global market analysis</b>
+🔭 I’m currently learning Full Stack Web Development <br>
+🌱 Working with PHP, MySQL, OOSAD principles, Public APIs <br>
+⚡ Fun fact: I have a passion for global market analysis
 </p>
 
 ---
