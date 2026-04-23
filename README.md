@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+
 <p align="center">
 🔭 I’m currently learning Full Stack Web Development <br>
 🌱 Working with PHP, MySQL, OOSAD principles, Public APIs <br>
