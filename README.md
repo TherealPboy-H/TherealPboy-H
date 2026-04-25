@@ -6,19 +6,18 @@
 
 ---
 
-
 <p align="center">
-🔭 I’m currently learning Full Stack Web Development <br>
-🌱 Working with PHP, MySQL, OOSAD principles, Public APIs <br>
-⚡ Fun fact: I have a passion for global market analysis
+🔭 I’m currently learning <b>Full Stack Web Development</b> <br>
+🌱 Working with <b>PHP, MySQL, OOSAD principles, Public APIs</b> <br>
+⚡ Fun fact: I have a passion for <b>global market analysis</b>
 </p>
 
 ---
 
 ### 🛠 Languages - Frameworks - Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,cpp,cs" /><br>
-  <img src="https://skillicons.dev/icons?i=python,bootstrap,vscode,github,git,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,cpp,cs" /><br>
+<img src="https://skillicons.dev/icons?i=python,bootstrap,vscode,github,git,arduino,raspberrypi" />
 </p>
 
 ---
@@ -26,10 +25,10 @@
 ### 🔗 Connect with me
 <p align="center">
 <a href="mailto:hopelusani533@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/hope-lusani-124058304">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
