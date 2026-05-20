@@ -35,11 +35,17 @@
 ---
 
 ### ⚡ Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TherealPboy-H&theme=tokyonight&hide_border=true)
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TherealPboy-H&show_icons=true&theme=tokyonight&hide_border=true)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TherealPboy-H&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <!-- Main GitHub stats (Vercel) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TherealPboy-H&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <!-- Top languages (Vercel) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TherealPboy-H&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br>
+  <!-- Stable badges replacing the small failing boxes -->
+  <img src="https://img.shields.io/badge/Contributions-See%20Profile-0366d6?style=for-the-badge&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Current%20Streak-Check%20Profile-1abc9c?style=for-the-badge&logo=github" alt="Current Streak" />
+</p>
 
 ---
 
