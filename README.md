@@ -6,7 +6,6 @@
 
 ---
 
-
 <p align="center">
 🔭 I’m currently learning Full Stack Web Development <br>
 🌱 Working with PHP, MySQL, OOSAD principles, Public APIs <br>
@@ -39,9 +38,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TherealPboy-H&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TherealPboy-H&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TherealPboy-H&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TherealPboy-H&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TherealPboy-H&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
