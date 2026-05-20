@@ -36,11 +36,13 @@
 ---
 
 ### ⚡ Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TherealPboy-H&theme=tokyonight&hide_border=true)
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TherealPboy-H&show_icons=true&theme=tokyonight&hide_border=true)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TherealPboy-H&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TherealPboy-H&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TherealPboy-H&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TherealPboy-H&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" />
+</p>
 
 ---
 
