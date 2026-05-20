@@ -1,11 +1,10 @@
 <div align="center">
 
-![Hi There](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Hope+Phasha)
+[![Hi There](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I%27m+Hope+Phasha)](https://git.io/typing-svg)
 
 ### I'm a Computer Science Student
 
 ---
-
 
 <p align="center">
 🔭 I’m currently learning Full Stack Web Development <br>
@@ -44,6 +43,6 @@
 
 ---
 
-![Thank You](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+🚀;Happy+Coding!)
+[![Thank You](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+%F0%9F%9A%80;Happy+Coding!)](https://git.io/typing-svg)
 
 </div>
