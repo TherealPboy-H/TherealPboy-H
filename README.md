@@ -27,7 +27,7 @@
 <a href="mailto:hopelusani533@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/hope-lusani-124058304">
+<a href="https://www.linkedin.com/in/hope-phasha-124058304">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
