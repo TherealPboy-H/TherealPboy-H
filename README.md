@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-🔭 I’m currently learning Full Stack Web Development <br>
+🔭 I’m currently learning Full Stack Web Development and RESTful services JAVA <br>
 🌱 Working with PHP, MySQL, OOSAD principles, Public APIs <br>
 ⚡ Fun fact: I have a passion for global market analysis
 </p>
