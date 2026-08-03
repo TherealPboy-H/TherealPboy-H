@@ -45,6 +45,6 @@
 
 ---
 
-![Thank You](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+🚀;Happy+Coding!)
+![Thank You](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi;Can+I+Call+you+🥺❤️)
 
 </div>
